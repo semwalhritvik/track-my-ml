@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hritvik/OneDrive/Desktop/Projects/Summer/MLFlow/mlruns/0/b2f5d0a4c04f4d7aa492133c1c1caae2/artifacts
+end_time: 1753212997068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2f5d0a4c04f4d7aa492133c1c1caae2
+run_name: bustling-quail-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753212989767
+status: 3
+tags: []
+user_id: Hritvik

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Hritvik/OneDrive/Desktop/Projects/Summer/MLFlow/mlruns/0/models/m-58963e21cdfc49289f2e6c5bc3a0638c/artifacts
+creation_timestamp: 1753210430218
+experiment_id: '0'
+last_updated_timestamp: 1753210436700
+model_id: m-58963e21cdfc49289f2e6c5bc3a0638c
+model_type: null
+name: model
+source_run_id: d0fea7ff96a64676832ee8ec497926d4
+status: 2
+status_message: null

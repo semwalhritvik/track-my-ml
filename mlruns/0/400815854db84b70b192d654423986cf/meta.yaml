@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hritvik/OneDrive/Desktop/Projects/Summer/MLFlow/mlruns/0/400815854db84b70b192d654423986cf/artifacts
+end_time: 1753210422306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 400815854db84b70b192d654423986cf
+run_name: suave-snipe-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753210414329
+status: 3
+tags: []
+user_id: Hritvik

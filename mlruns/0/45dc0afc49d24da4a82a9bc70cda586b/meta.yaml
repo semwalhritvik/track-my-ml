@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hritvik/OneDrive/Desktop/Projects/Summer/MLFlow/mlruns/0/45dc0afc49d24da4a82a9bc70cda586b/artifacts
+end_time: 1753210429704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45dc0afc49d24da4a82a9bc70cda586b
+run_name: serious-kit-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753210422338
+status: 3
+tags: []
+user_id: Hritvik

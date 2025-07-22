@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hritvik/OneDrive/Desktop/Projects/Summer/MLFlow/mlruns/0/29ef480d4900467993aa729d668fb28c/artifacts
+end_time: 1753212989729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29ef480d4900467993aa729d668fb28c
+run_name: sincere-donkey-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753212983108
+status: 3
+tags: []
+user_id: Hritvik

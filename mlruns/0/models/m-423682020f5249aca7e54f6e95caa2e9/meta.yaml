@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Hritvik/OneDrive/Desktop/Projects/Summer/MLFlow/mlruns/0/models/m-423682020f5249aca7e54f6e95caa2e9/artifacts
+creation_timestamp: 1753212949942
+experiment_id: '0'
+last_updated_timestamp: 1753212981480
+model_id: m-423682020f5249aca7e54f6e95caa2e9
+model_type: null
+name: rf_model
+source_run_id: 4d2e495211fd417eb91ce4c122428f1c
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Hritvik/OneDrive/Desktop/Projects/Summer/MLFlow/mlruns/0/models/m-89868b45d05b419da73ee49d722cf354/artifacts
+creation_timestamp: 1753200451196
+experiment_id: '0'
+last_updated_timestamp: 1753200454748
+model_id: m-89868b45d05b419da73ee49d722cf354
+model_type: null
+name: random_forest_model
+source_run_id: 191f59415c2648a881323a26181bea90
+status: 2
+status_message: null
