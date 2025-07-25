@@ -1,0 +1,5 @@
+outs:
+- md5: 7150a34df368006b452583a75ac55900
+  size: 959
+  hash: md5
+  path: spam_model.pkl
