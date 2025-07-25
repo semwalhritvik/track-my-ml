@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/473d7fa3dcd943ce9b97c352b2393647/artifacts
+end_time: 1753400115178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 473d7fa3dcd943ce9b97c352b2393647
+run_name: nebulous-lamb-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753400106027
+status: 3
+tags: []
+user_id: Hritvik

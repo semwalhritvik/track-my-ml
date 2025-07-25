@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c32d540e8b0476e812bb44b391fe387/artifacts
+end_time: 1753399284801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c32d540e8b0476e812bb44b391fe387
+run_name: salty-sponge-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399271984
+status: 3
+tags: []
+user_id: Hritvik
